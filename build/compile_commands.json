@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ayaan/Desktop/nmea-parser/build",
+  "command": "/usr/bin/c++   -I/home/ayaan/Desktop/nmea-parser/nlohmann  -g   -std=gnu++11 -o CMakeFiles/nmea_parser.dir/cpp_parser/nmea_parse.cpp.o -c /home/ayaan/Desktop/nmea-parser/cpp_parser/nmea_parse.cpp",
+  "file": "/home/ayaan/Desktop/nmea-parser/cpp_parser/nmea_parse.cpp"
+}
+]

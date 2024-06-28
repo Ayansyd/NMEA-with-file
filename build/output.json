@@ -1,0 +1,20 @@
+[
+    {
+        "Altitude": "545.4 M",
+        "Fix Quality": "1",
+        "Geoid Height": "46.9 M",
+        "Horizontal Dilution": "0.9",
+        "Latitude": "4807.038 N",
+        "Longitude": "01131.000 E",
+        "Number of Satellites": "08",
+        "Time": "123519",
+        "Type": "GGA"
+    },
+    {
+        "Latitude": "4916.45 N",
+        "Longitude": "12311.12 W",
+        "Status": "A",
+        "Time": "225444",
+        "Type": "GLL"
+    }
+]
